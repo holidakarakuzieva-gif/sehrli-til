@@ -1,0 +1,6 @@
+{
+  "name": "Sehrli til",
+  "description": "Rus tilida taʼlim oluvchi 2–3-sinf oʻquvchilari uchun oʻzbek tilini oʻrgatuvchi interaktiv taʼlim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sehrli til — oʻzbek tilini sehrli oʻrgan</title>
+    <meta
+      name="description"
+      content="Rus tilida taʼlim oluvchi 2–3-sinf oʻquvchilari uchun oʻzbek tili lugʻati, tarjima va oʻyinlar orqali oʻrgatuvchi bolalar platformasi."
+    />
+    <meta property="og:title" content="Sehrli til — oʻzbek tilini sehrli oʻrgan" />
+    <meta
+      property="og:description"
+      content="Rus tilida taʼlim oluvchi 2–3-sinf oʻquvchilari uchun oʻzbek tili lugʻati, tarjima va oʻyinlar orqali oʻrgatuvchi bolalar platformasi."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#FFF9F0" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#141B2D" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <script>
+      (function () {
+        try {
+          var raw = localStorage.getItem('sehrli-til-settings');
+          var theme = 'light';
+          if (raw) {
+            var parsed = JSON.parse(raw);
+            if (parsed && parsed.state && parsed.state.theme) {
+              theme = parsed.state.theme;
+            }
+          }
+          var isDark =
+            theme === 'dark' ||
+            (theme === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          if (isDark) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,459 @@
+[22.11.2026 12:20] Umidam: ### 1.4. Imlo
+- oʻ va gʻ da faqat U+02BB (ʻ) belgisi; tutuq belgisi (maʼno, sanʼat, taʼlim) U+02BC (ʼ). Koddagi kontentda oddiy ' , ` yoki ‘ ISHLATMA.
+- Gap bosh harf bilan boshlanadi, kishi ismlari va shahar nomlari bosh harfda.
+- Koʻp uchraydigan xatolar: «xona» (toʻgʻri) / «hona» (xato), «hafta» (toʻgʻri) / «xafta» (xato), «xursand», «mehmon», «shahar», «baxt», «xalq», «tarix», «iltimos», «kechirasiz», «Assalomu alaykum».
+
+### 1.5. Psixologik toʻsiqlar
+- «Oʻzbek tili kerak emas / qiyin» degan fikr → har darsda «Bu soʻz senga qayerda kerak boʻladi?» (doʻkonda, mehmonda, maktabda) bloki.
+- Xato qilishdan qoʻrqish → hech qachon «Notoʻgʻri!» qizil ekrani yoʻq; oʻrniga «Deyarli! Yana bir urinib koʻr 💫» va yordamchi maslahat.
+- Diqqat davomiyligi qisqa → har bir faoliyat 3–5 daqiqa, dars jami 15–20 daqiqa.
+
+### 1.6. Ekrandan tashqari oʻrganish (TPR)
+Har darsda ekrandan tashqari harakatli buyruqlar boʻlsin: «Oʻrningdan tur! Qoʻlingni koʻtar! Uch marta sakra! Koʻzingni yum!» — bola bajaradi, ota-ona tekshiradi.
+
+=====================================================================
+## 2. OʻQUV DASTURI (KONTENT)
+=====================================================================
+Kontentni ikkita «olam»ga ajrat: 🌱 2-sinf «Sehrli bogʻ» va 🏰 3-sinf «Sehrli qalʼa». Har bir olam — orollardan iborat xarita, har bir orol — bitta boʻlim.
+
+### 2-sinf (kamida 10 boʻlim)
+1. Salom, doʻstim! — salomlashish, tanishish, xayrlashish, odob soʻzlari
+2. Mening maktabim — oʻquv qurollari, sinf xonasi, oʻqituvchi buyruqlari
+3. Mening oilam — qarindoshlik soʻzlari (aka/uka, opa/singil, amaki/togʻa, amma/xola)
+4. Ranglar va shakllar
+5. Sonlar 1–20 va sanoq qoʻshimchalari (-ta: bitta, ikkita)
+6. Meva va sabzavotlar — bozorda
+7. Uy hayvonlari va yovvoyi hayvonlar
+8. Mening uyim — xonalar va jihozlar
+9. Kiyimlarim
+10. Fasllar va ob-havo
+
+### 3-sinf (kamida 10 boʻlim)
+1. Kun tartibim va vaqt (soat, hafta kunlari, oylar)
+2. Tana aʼzolari va salomatlik
+3. Dasturxon va taomlar (non, osh, somsa; dasturxon odobi)
+4. Kasblar — «Kim boʻlaman?»
+5. Shahar, transport va yoʻl harakati qoidalari
+6. Sonlar 20–100, tartib sonlar (birinchi, ikkinchi)
+7. Bayramlar (Navroʻz, Mustaqillik kuni, Oʻzbek tili bayrami — 21-oktabr, Yangi yil)
+8. Vatanim Oʻzbekiston (Toshkent, Samarqand, Buxoro, Xiva — rasmlar va xarita)
+9. Tabiat va ekologiya (daraxt, suv, tozalik)
+10. Soʻz turkumlari va kelishiklar (oʻyin shaklida)
+
+### Har bir boʻlim tarkibi (qatʼiy shablon)
+a) 15–25 ta yangi soʻz (lugʻat kartochkalari)
+b) «Qisqa maʼruza» — 3–5 gapdan iborat sodda tushuntirish (oʻzbekcha + interfeys tilidagi izoh)
+c) «Sehrli kalit» — bitta grammatik yoki leksik qoida, rasm va misol bilan
+d) Qisqa dialog (4–6 replika) — qahramonlar ishtirokida
+e) 6–8 ta mashq (turli turdagi, 4-boʻlimga qara)
+f) 1–2 ta oʻyin
+g) 2–3 ta sheʼriy topishmoq
+h) 10 savollik yakuniy test
+i) «Ota-ona bilan» uy topshirigʻi (ekransiz)
+j) TPR harakatli buyruqlar (1.6-band)
+
+Jami: kamida 20 boʻlim, 400+ soʻz, 60+ topishmoq, 150+ mashq.
+
+=====================================================================
+## 3. ASOSIY MODULLAR
+=====================================================================
+
+### 3.1. 📖 «Sehrli lugʻat» (eng kuchli modul)
+Har bir soʻz kartochkasi quyidagi maydonlarga ega:
+- oʻzbekcha soʻz (amaldagi lotin yozuvida)
+- tarjima: ruscha va inglizcha
+- soʻz turkumi (ot / sifat / feʼl / son / ...)
+- emoji + rasm (6-bandga qara)
+- talaffuz yordamchisi (ruscha harflar bilan): qalam → «калам» (қ — глубокий «к»)
+- audio tugmasi (7-bandga qara)
+- misol gap (uz + ru + en)
+- sinonim / antonim / soʻz oilasi (boʻlsa)
+- «Eslab qolish hiylasi» — rus tilli bola uchun mnemonika (masalan: «olma» — «Оля мама даёт яблоко → olma»)
+- mavzu teglari
+
+Funksiyalar:
+- Qidiruv uch tilda (uz/ru/en), harf qatori boʻyicha filtr, mavzu boʻyicha filtr
+- «Mening sandiqcham» — bola yoqtirgan soʻzlarini saqlaydi
+- Leitner tizimi (5 quti, takrorlash oraligʻi: 1–2–4–7–14 kun) — localStorage'da
+- «Kun soʻzi» — har kuni bosh sahifada bitta soʻz va qisqa hikoyacha
+- Kartochkani chop etish (print CSS orqali A4 varaq, 8 ta karta)
+[22.11.2026 12:20] Umidam: ### 3.2. 🔬 «Soʻz laboratoriyasi» (leksikologiya)
+Har biri alohida interaktiv boʻlim:
+- Sinonimlar koʻprigi — bir xil maʼnoli soʻzlarni ulash
+- Antonimlar argʻimchogʻi — qarama-qarshi soʻzlar tarozida
+- Omonimlar sirli qutisi — bitta soʻz, ikki rasm (ot 🐴 / ot 📛)
+- Koʻp maʼnoli soʻzlar daraxti — til 👅 / til 🗣️
+- Soʻz yasash konstruktori — oʻzak + qoʻshimcha bloklari (gul + zor = gulzor, qalam + don = qalamdon); bola oʻzi yangi soʻz yasab, natijani tekshiradi
+- Soʻz oilasi daraxti — bitta oʻzakdan oʻsgan shoxlar (ish → ishchi, ishla, ishxona)
+- Mavzuli guruhlar — «Ortiqchasini top» (olma, nok, sabzi, olcha)
+- Oʻzlashma soʻzlar — «Bu soʻzni allaqachon bilasan!»
+- Iboralar va maqollar — rasm bilan maʼno izohi
+
+### 3.3. 🔁 «Tarjima ustaxonasi»
+- ru → uz va uz → ru gap yigʻish (soʻz bloklarini sudrab joylash)
+- «Robot-tarjimon adashdi!» — robot notoʻgʻri tarjima qilgan, bola xatoni topadi (masalan: «uchta olmalar» → «uchta olma»)
+- «Soxta oʻxshashlar» — tovushi oʻxshash, maʼnosi boshqa soʻzlar
+- Rasmli tarjima — rasmga qarab uch tilda nomini yozish
+- Tarjimada qoʻshimchalarni koʻrsatish: «в моих книгах» → kitob|lar|im|da (rangli vagonlar)
+
+### 3.4. 📚 «Ertak kitobcha»
+- Har boʻlimga 1 ta qisqa interaktiv hikoya (8–12 gap)
+- Har bir soʻzni bosganda tarjima chiqadi
+- Hikoya oxirida 3 ta savol va «Hikoya davomini oʻzing oʻyla» ijodiy topshirigʻi
+
+### 3.5. 👨‍👩‍👧 «Ota-onalar burchagi» (ota-ona darvozasi bilan himoyalangan)
+- Darvoza: tasodifiy misol (masalan, «47 + 38 = ?») — bola tasodifan kirmasligi uchun
+- Bolaning natijalari: oʻrganilgan soʻzlar, qiyin soʻzlar roʻyxati, haftalik grafik
+- Har bir boʻlim uchun ota-onaga ruscha qoʻllanma: «Bu hafta nimani oʻrganamiz va uyda qanday yordam berasiz»
+- Ekransiz oilaviy oʻyinlar (oshxonada soʻz ovi, «Kim tez aytadi?»)
+- Ekran vaqti sozlamasi (standart: 25 daqiqa, keyin «Dam ol!» ekrani)
+- «Xavfsiz internet» qoʻllanmasi (5-bandga qara)
+- Maʼlumotlarni eksport/import (JSON) — boshqa qurilmaga oʻtkazish uchun
+
+### 3.6. 🧑‍🏫 «Oʻqituvchi rejimi»
+- Proyektor rejimi: katta shrift, toʻliq ekran, sinf bilan oʻynash
+- Chop etiladigan ish varaqlari (mashqlar, krossvord, rang berish varaqlari) — print CSS
+- Boʻlim boʻyicha dars rejasi (45 daqiqa)
+
+### 3.7. 🏆 «Yutuqlar» (gamifikatsiya)
+- Yulduzlar (har bir mashq uchun 1–3 ⭐), sehr kitobi darajalari
+- «Yopishqoq albom»: oʻzbek madaniyati stikerlari (doʻppi, atlas, non, anor, Registon, choynak) — har biri soʻz bilan
+- Nishonlar: «Lugʻat ustasi», «Tarjimon», «Topishmoq qiroli», «7 kun ketma-ket»
+- Boʻlim yakunida chop etiladigan sertifikat
+- MUHIM: jazo, yulduz olib qoʻyish, reyting jadvallari va boshqa bolalar bilan solishtirish YOʻQ. Faqat oʻz-oʻzi bilan raqobat.
+
+=====================================================================
+## 4. MASHQLAR, OʻYINLAR, TOPISHMOQLAR, TESTLAR
+=====================================================================
+
+### 4.1. Mashq turlari (har biri qayta ishlatiladigan komponent)
+1. Bitta javobni tanlash (rasm yoki matn)
+2. Boʻsh joyni toʻldirish (harf yoki qoʻshimcha)
+3. Juftlarni moslashtirish (soʻz ↔ rasm, uz ↔ ru)
+4. Gap tuzish (soʻzlarni tartiblash)
+5. Toʻgʻri / notoʻgʻri
+6. Imloni tuzat (xato soʻzni topib bosish)
+7. Eshit va tanla (audio)
+8. Rasmga qarab yoz (klaviatura: oʻ, gʻ, ʼ tugmalari bilan)
+9. Ortiqchasini top
+10. Qoʻshimcha ula (poyezd)
+
+Har bir mashq: darhol ijobiy javob, xatoda maslahat (2 bosqich), toʻgʻri javobni tushuntirish (interfeys tilida).
+[22.11.2026 12:20] Umidam: ### 4.2. Ekranda oʻynaladigan rasmli oʻyinlar (kamida 12 ta)
+1. 🃏 «Sehrli juftlik» — memory: rasm ↔ soʻz kartalari
+2. 🚂 «Qoʻshimcha poyezdi» — oʻzak vagoniga -lar, -im, -da vagonlarini toʻgʻri tartibda ulash
+3. 🎯 «Harf ovchisi» — minimal juftliklar: «ot» yoki «oʻt»? rasmga qarab tanlash
+4. 🧩 «Soʻz sehrgari» — aralash harflardan soʻz yigʻish
+5. 🏪 «Chorsu bozorida» — rol oʻyini: pul bilan meva sotib olish, sonlar va xushmuomalalik soʻzlari
+6. 🍲 «Oshxona sehri» — palov tayyorlash: masalliqlarni (guruch, sabzi, piyoz, goʻsht, yogʻ) nomini oʻqib, tartib bilan qozonga solish
+7. 🎨 «Boʻya va ayt» — SVG rang berish: «Olmani qizil rangga boʻya», «Mushukni kul rangga boʻya»
+8. 🗺️ «Sehrli xarita» — Oʻzbekiston xaritasida shaharlarni bosish → soʻz va qiziqarli fakt
+9. 📖 «Ertak quruvchi» — ijodiy oʻyin: qahramon, joy va voqea kartalarini tanlab oʻz ertagini tuzish; tayyor ertakni chop etish yoki ota-onaga oʻqib berish
+10. 🪜 «Soʻz zinasi» — oldingi soʻzning oxirgi harfi bilan yangi soʻz (olma → anor → ruchka...)
+11. 🔤 «Krossvord» — rasmli, har boʻlim uchun avtomatik generatsiya
+12. 🚦 «Internet svetofori» — xavfsiz internet oʻyini (5-bandga qara)
+13. 🤸 «Sehrli buyruqlar» — ekranda buyruq chiqadi, bola bajaradi, ota-ona «Bajardi ✔» bosadi
+14. ⚡ «Ota-ona bilan duel» — ikkalasi navbat bilan javob beradi, bir ekranda
+
+Oʻyin talablari: sensorli ekranda drag-and-drop ishlashi (@dnd-kit), klaviatura bilan ham boshqariladi, tovush oʻchiriladi, har bir oʻyin 3–5 daqiqa, qiyinlik darajasi (oson / oʻrta / qiyin).
+
+### 4.3. Sheʼriy topishmoqlar
+- Kamida 60 ta, har boʻlimga 2–3 ta; ritm va qofiyali, 4 qatorli
+- Har birida: matn, javob, rasm, 3 bosqichli yordam (birinchi harf → harflar soni → rasm parchasi), ruscha mazmuni (qofiyasiz)
+- Xalq topishmoqlarini ishlatsang ham, oʻzing yangi yozsang ham — javobi bir maʼnoli va toʻgʻri boʻlishini TEKSHIR
+- Namunalar (sifat darajasi shunday boʻlsin):
+
+  «Ingichkagina tanasi,
+  Uchida bor qorasi.
+  Daftarimda iz qoldirar,
+  Harflarni chiroyli chizar.» — (Qalam ✏️)
+
+  «Toʻrt oyogʻi bor, yurmaydi,
+  Ustiga ovqat qoʻysang, yemaydi.» — (Stol 🪑)
+
+  «Ustki toʻni yam-yashil,
+  Ichi qizil, urugʻi qora.
+  Yozda dalada pishadi,
+  Topgin, aqlli bola!» — (Tarvuz 🍉)
+
+  «Kunduzi yashirinadi,
+  Kechasi koʻkda yonadi.
+  Goh oʻroqday, goh toʻlin —
+  Topgin-chi, oʻylab koʻrgin!» — (Oy 🌙)
+
+- Tez aytishlar (talaffuz uchun): «Qirda qirqta qizil qush qoʻndi.» (q tovushi)
+
+### 4.4. Testlar
+- Har boʻlim oxirida 10 savol (aralash turlar), 3 urinish
+- Har olam oxirida yakuniy test (30 savol)
+- Natija: yulduzlar + «Xatolar ustida ishlash» — xato soʻzlar avtomatik Leitner qutisining 1-bosqichiga tushadi
+- Testda vaqt chegarasi YOʻQ (bolani stressga solmaslik)
+
+=====================================================================
+## 5. XAVFSIZ INTERNET: RUXSAT ETILGAN VA TAQIQLANGAN
+=====================================================================
+### 5.1. Saytning oʻzi uchun qatʼiy texnik qoidalar
+- Bolalar zonasida BIRORTA tashqi havola, iframe, reklama, chat, izoh boʻlimi yoki ijtimoiy tarmoq tugmasi YOʻQ.
+- Tashqi havolalar faqat «Ota-onalar burchagi»da, ota-ona darvozasidan keyin, rel="noopener noreferrer" bilan.
+- Hech qanday analitika, cookie, tracker yoki uchinchi tomon skripti yoʻq. Shaxsiy maʼlumot yigʻilmaydi — faqat bola tanlagan taxallus va avatar, faqat localStorage'da.
+- Saytning pastki qismida yosh toifasi belgisi «0+» koʻrsatilsin (Oʻzbekiston Respublikasining «Bolalarni ularning sogʻligʻiga zarar yetkazuvchi axborotdan himoya qilish toʻgʻrisida»gi Qonuni, OʻRQ-444, 2017 — axborot mahsulotida yosh toifasi belgisi boʻlishi shart).
+- Barcha tashqi havolalar bitta faylda: src/config/safeLinks.ts — admin oʻzi tekshirib toʻldiradi.
+[22.11.2026 12:20] Umidam: ### 5.2. «Xavfsiz internet» sahifasi (bolalar uchun — rasmli, sodda; ota-onalar uchun — batafsil)
+✅ Ruxsat (ota-ona nazoratida):
+- Oʻzbekiston Maktabgacha va maktab taʼlimi vazirligi rasmiy sahifasi: https://gov.uz/oz/uzedu
+- Qonunlar bazasi (ota-onalar uchun): https://lex.uz
+- Rasmiy elektron darsliklar (faqat vazirlik tasdiqlagan manbadan)
+- YouTube Kids va Google Family Link — faqat ota-ona sozlab bergan holda
+- Ota-ona tekshirgan va yosh belgisi bor taʼlim ilovalari
+
+⛔ Taqiqlangan / mos emas (qonundagi taqiqlangan axborot turlari va platformalarning yosh chegaralari asosida):
+- Zoʻravonlik, qoʻrqinchli va 18+ kontent
+- Qimor, stavka, «kazino», «tez pul topish» saytlari
+- Alkogol, tamaki, vayp va giyohvand moddalar reklamasi
+- Hayotga xavfli «challenge»lar va oʻziga zarar yetkazishga undovchi kontent
+- Notanishlar bilan chat, anonim chat-ruletka, «doʻst qidirish» saytlari
+- Yosh chegarasi 13+ boʻlgan ijtimoiy tarmoqlar (TikTok, Instagram, Facebook, Snapchat va h.k.) — 8–9 yoshli bola uchun mos emas
+- «Bepul yuklab ol» pirat saytlari (virus xavfi), VPN/proksi orqali bloklangan saytlarga kirish
+- Ichki toʻlovli oʻyinlar va ilovalar — ota-ona ruxsatisiz
+
+### 5.3. Bolalar uchun «Internet svetofori» oʻyini
+Vaziyat kartalari chiqadi, bola ularni 🟢 / 🟡 / 🔴 ga ajratadi:
+- «Notanish odam: rasmingni yubor» → 🔴 + «Darhol ota-onangga ayt!»
+- «Oʻyin: 1000 olmos uchun bos!» → 🔴
+- «Ota-onang bilan multfilm koʻrish» → 🟢
+- «Yangi ilova yuklashdan oldin ruxsat soʻrash» → 🟡 → 🟢
+Har bir karta oʻzbekcha (yangi soʻzlar: ruxsat, xavf, sir, parol, notanish) — ham xavfsizlik, ham lugʻat darsi.
+
+Oltin qoidalar (sahifada katta rasmlar bilan): 1) Parolimni hech kimga aytmayman. 2) Notanishlar bilan yozishmayman. 3) Nimadir qoʻrqitsa — darhol kattalarga aytaman. 4) Biror narsa yuklashdan oldin ruxsat soʻrayman.
+
+=====================================================================
+## 6. RASMLAR
+=====================================================================
+- HECH QACHON taxminiy rasm URL'larini oʻylab topma (ular buziladi va Vercel'da boʻsh joylar qoladi).
+- Har bir soʻzning image maydoni boʻlsin: /images/words/{wordId}.webp.
+- <SmartImage> komponenti yarat: avval mahalliy rasmni yuklaydi, topilmasa — chiroyli fon ustidagi katta emoji yoki oʻzing chizgan inline SVG illyustratsiyani koʻrsatadi. Natijada rasmlar qoʻshilmagan boʻlsa ham sayt 100% chiroyli ishlaydi.
+- Shaharlar, bayramlar, milliy taomlar uchun «real rasm» joylari: /images/real/{id}.webp. public/images/CREDITS.md faylida litsenziya roʻyxati shabloni boʻlsin (Wikimedia Commons, Unsplash, Pexels — bepul litsenziyali manbalar).
+- scripts/check-images.mjs — qaysi soʻzga rasm yetishmayotganini roʻyxat qilib beradi.
+- Barcha rasmlarda alt matn (interfeys tilida), loading="lazy", aniq width/height.
+- Real odamlar yuzlari tasvirlangan rasmlarni ishlatma.
+
+=====================================================================
+## 7. AUDIO VA TALAFFUZ
+=====================================================================
+- Birinchi navbatda /audio/{wordId}.mp3 fayli (keyinchalik ovoz yozib qoʻshiladi).
+- Fayl boʻlmasa — Web Speech API (speechSynthesis) bilan "uz-UZ" ovozini qidir. Agar brauzerda oʻzbekcha ovoz boʻlmasa, audio tugmasini yashirma — oʻrniga ruscha talaffuz yordamchisini kattalashtirib koʻrsat. Ruscha yoki turkcha ovoz bilan oʻzbekcha soʻzni OʻQITMA (notoʻgʻri talaffuz oʻrgatadi).
+- «Aytib koʻr» rejimi (ixtiyoriy, progressive enhancement): SpeechRecognition qoʻllab-quvvatlansa — bola soʻzni aytadi, natija koʻrsatiladi; qoʻllab-quvvatlanmasa — tugma chiqmaydi, xato bermaydi.
+- Qisqa effekt tovushlari (toʻgʻri, xato, gʻalaba) — WebAudio API bilan generatsiya qilinsin (tashqi fayl shart emas), umumiy ovoz tugmasi bilan oʻchiriladi.
+[22.11.2026 12:20] Umidam: =====================================================================
+## 8. ALIFBO REJIMLARI (MUHIM YANGILIK)
+=====================================================================
+2026-yil 21-oktabrda lotin yozuviga asoslangan oʻzbek alifbosini takomillashtirish toʻgʻrisidagi qonun (OʻRQ-1184) imzolandi: alifbo 28 harf va 1 tutuq belgisidan iborat boʻladi, oʻ → Ö ö, gʻ → Ğ ğ, sh → Ş ş, ch → Ç ç. Darsliklarga oʻtish bosqichma-bosqich boʻladi, hozirgi 2–3-sinf darsliklari amaldagi lotin alifbosida.
+
+Shuning uchun:
+- Barcha kontent AMALDAGI lotin alifbosida saqlanadi (oʻ, gʻ, sh, ch).
+- Sozlamalarda «Alifbo» almashtirgichi:
+  1) Lotin (amaldagi) — standart
+  2) Yangi lotin (Ö, Ğ, Ş, Ç) — avtomatik konvertor
+  3) Kirill — ota-onalar uchun (koʻpchilik ota-onalar kirillda oʻqigan), «beta» belgisi bilan
+- src/lib/alphabet.ts — sof funksiyalar: toNewLatin(text), toCyrillic(text). Qoidalar:
+  • Yangi lotin: oʻ→ö, Oʻ→Ö, gʻ→ğ, Gʻ→Ğ, sh→ş, Sh/SH→Ş, ch→ç, Ch/CH→Ç. Tutuq bilan ajratilgan «s» + «h» (masalan, Isʼhoq) — oʻzgarmaydi. «ng» oʻzgarmaydi.
+  • Kirill: sh→ш, ch→ч, oʻ→ў, gʻ→ғ, q→қ, h→ҳ, x→х, yo→ё, yu→ю, ya→я, ye→е (soʻz boshida), e→э (soʻz boshida va unlidan keyin), ts→ц (faqat oʻzlashma soʻzlar roʻyxati bilan), tutuq→ъ.
+- Ushbu funksiyalar uchun kamida 30 ta Vitest test yoz (bosh harflar, tutuq, soʻz boshidagi «e», «Isʼhoq» kabi istisnolar).
+- Yangi alifbo haqida bolalar uchun qisqa sahifa: «Bizning alifbomizda yangi harflar paydo boʻldi!» — 4 harf va misollar bilan oʻyin.
+
+=====================================================================
+## 9. INTERFEYS TILLARI (uz / ru / en)
+=====================================================================
+- Interfeys tili: Oʻzbekcha, Русский, English. Standart til: brauzer tilidan aniqlanadi, aniqlanmasa — Русский (asosiy foydalanuvchilar rus tilli).
+- Oʻrganiladigan til doim oʻzbek tili; tushuntirishlar, maslahatlar va tarjimalar tanlangan interfeys tilida.
+- «Sehrli koʻzoynak» 👓 rejimi — faqat oʻzbekcha (immersion): tarjimalar yashiriladi, bosib ochiladi.
+- i18n: src/i18n/uz.ts, ru.ts, en.ts. Tiplangan lugʻat: ru va en fayllari typeof uz tipiga mos boʻlsin — biror kalit tushib qolsa, TypeScript build vaqtida xato beradi.
+- <html lang> atributi til almashganda yangilansin.
+- Barcha oʻzbekcha matn imlosiz xatosiz; ruscha va inglizcha tarjimalar ham grammatik toʻgʻri, bolalar tiliga mos.
+- Interfeys soʻzlari namunasi: Bosh sahifa / Главная / Home; Darslar / Уроки / Lessons; Lugʻat / Словарь / Dictionary; Oʻyinlar / Игры / Games; Topishmoqlar / Загадки / Riddles; Testlar / Тесты / Tests; Ota-onalar uchun / Для родителей / For parents.
+
+=====================================================================
+## 10. DIZAYN TIZIMI
+=====================================================================
+Uslub: quvnoq, yorqin, «sehrli ertak» kayfiyati, lekin toza va tartibli (vizual shovqinsiz). Yumshoq soyalar, katta yumaloq burchaklar (16–24px), yengil animatsiyalar, sehrli uchqunlar ✨.
+
+### Maskot va qahramonlar (original, hech qanday mashhur multfilm qahramoniga oʻxshamasin)
+- «Humocha» — kichkina sehrli Humo qushi (oʻzbek afsonaviy qushi), maskot va yoʻlboshchi; SVG'da chizilgan, 4 ta holat: xursand, oʻylayapti, ragʻbatlantiryapti, uxlayapti.
+- Anvar (oʻzbek bola) va Katya (rus qiz) — doʻstlar, dialoglarda qatnashadi. Doʻstlik va oʻzaro hurmat gʻoyasi.
+
+### Ranglar (CSS oʻzgaruvchilari orqali, WCAG AA kontrast kafolatlangan)
+Yorugʻ rejim:
+- Fon: #FFF9F0 (iliq krem), sirt: #FFFFFF
+- Asosiy: #FF8A3D (quyosh apelsini)
+- Osmon: #3BA9FF, yalpiz: #2EC4B6, uzum: #8B5CF6, malina: #FF5C8A, limon: #FFD23F
+- Matn: #2B2D42, ikkinchi darajali matn: #5C6075
+Tungi rejim («Sehrli tun» — yulduzli osmon fon naqshi):
+- Fon: #141B2D, sirt: #1E2740, matn: #F1F5FF
+- Urgʻu ranglari biroz ochroq va kamroq toʻyingan (koʻzni charchatmasligi uchun)
+- Rang faqat bitta maʼno tashuvchi boʻlmasin: toʻgʻri/xato doim ikonka bilan ham koʻrsatilsin.
+[22.11.2026 12:20] Umidam: ### Tipografiya
+- Shrift: Nunito (yoki Baloo 2) — @fontsource orqali loyihaga oʻrnatilsin (CDN emas), lotin-kengaytma va kirill qoʻllab-quvvatlashi tekshirilsin (ʻ va ʼ belgilari toʻgʻri koʻrinishi shart).
+- Asosiy matn 18px, sarlavhalar 28–40px, satr oraligʻi 1.5.
+- Sozlamada: shrift kattaligi (A / A+ / A++), «oson oʻqish» shrifti.
+
+### Tugmalar va ikonkalar
+- Ixcham, kichik ikonkalar (20–24px) va ixcham tugmalar, lekin bosiladigan maydon kamida 44×44px (bola barmogʻi uchun).
+- Ikonkalar: lucide-react (bir xil chiziq qalinligi), mavzuli joylarda emoji.
+- Har bir ikonka-tugmada aria-label (interfeys tilida).
+
+### Rejimlar va moslashuvchanlik
+- Yorugʻ / tungi / tizim rejimi; tanlov localStorage'da; sahifa yuklanishida «oq chaqnash» boʻlmasligi uchun index.html ichida kichik inline skript.
+- prefers-reduced-motion hurmat qilinsin; «Animatsiyalarni kamaytirish» tugmasi.
+- Responsive: 360px telefon, planshet (asosiy qurilma!), noutbuk, proyektor. Mobil — pastki navigatsiya paneli; planshet/desktop — yon panel.
+- Landscape planshetda oʻyinlar toʻliq ekranga moslashsin.
+
+=====================================================================
+## 11. SAHIFALAR (ROUTING)
+=====================================================================
+URL'lar faqat lotin harflari va defis bilan:
+/                    — «Sehrli darvoza» (bosh sahifa: Humocha, kun soʻzi, davom etish tugmasi)
+/xarita              — olamlar va orollar xaritasi (oʻquv yoʻli)
+/dars/:unitId        — dars (qadamlar: Koʻr → Eshit → Takrorla → Oʻyna → Ijod qil → Tekshir)
+/lugat               — sehrli lugʻat
+/laboratoriya        — soʻz laboratoriyasi
+/tarjima             — tarjima ustaxonasi
+/ertaklar            — ertak kitobchalar
+/oyinlar, /oyinlar/:gameId
+/topishmoqlar
+/testlar, /testlar/:testId
+/yutuqlar
+/alifbo              — yangi alifbo bilan tanishuv
+/xavfsiz-internet
+/ota-onalar          — darvoza bilan
+/oqituvchi
+/sozlamalar
+*                    — chiroyli 404 sahifa («Humocha adashib qoldi!»)
+
+Birinchi kirishda: «Ismingni (taxallusingni) yoz va avatar tanla» (6 ta hayvon avatari) + sinf tanlash (2 yoki 3) + interfeys tili.
+
+=====================================================================
+## 12. TEXNIK TALABLAR (XATOSIZ BUILD VA DEPLOY UCHUN — QATʼIY)
+=====================================================================
+### Stek
+- Vite + React 18 + TypeScript (strict: true)
+- Tailwind CSS v4: @tailwindcss/vite plagini, CSS'da @import "tailwindcss";, tungi rejim uchun @custom-variant dark (&:where(.dark, .dark *));. tailwind.config.js YARATMA (v4 da kerak emas).
+- react-router-dom (BrowserRouter), har bir sahifa React.lazy + Suspense bilan
+- zustand (persist middleware → localStorage) — progress, sozlamalar
+- framer-motion — animatsiyalar; canvas-confetti — gʻalaba effekti
+- @dnd-kit/core — sensorli drag-and-drop
+- lucide-react — ikonkalar
+- @fontsource/nunito — shrift
+- vitest — testlar
+
+### Taqiqlar (AI Studio'da koʻp uchraydigan xatolar)
+- index.html ichida <script type="importmap"> va CDN orqali React yuklash QATʼIYAN TAQIQLANADI. Barcha kutubxonalar package.json orqali, node_modules'dan.
+- Gemini API, @google/genai va boshqa API kalitlarini ISHLATMA. Sayt toʻliq statik, backend'siz, hech qanday environment variable talab qilmaydi.
+- Kliyent kodida process.env ishlatma.
+- Import yoʻllari fayl nomlari bilan HARFMA-HARF mos boʻlsin (Vercel Linux'da ishlaydi, katta-kichik harf farqi build'ni buzadi). Fayl nomlash: komponentlar PascalCase.tsx, qolganlari camelCase.ts.
+- Ishlatilmagan import va oʻzgaruvchilar qoldirma (tsc build'ni toʻxtatadi).
+- @/ alias ishlatsang — vite.config.ts va tsconfig.app.json ikkalasida ham sozla.
+- any tipi ishlatma; kontent uchun aniq interfeyslar.
+[22.11.2026 12:20] Umidam: ### Fayllar
+- package.json: "engines": { "node": ">=20" }; scriptlar:
+  "dev": "vite", "build": "tsc -b && vite build", "preview": "vite preview", "test": "vitest run", "typecheck": "tsc -b --noEmit", "check:content": "node scripts/check-content.mjs"
+- vercel.json:
+  {
+    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
+    "headers": [{ "source": "/(.*)", "headers": [
+      { "key": "X-Content-Type-Options", "value": "nosniff" },
+      { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+      { "key": "X-Frame-Options", "value": "DENY" },
+      { "key": "Permissions-Policy", "value": "camera=(), geolocation=(), microphone=(self)" }
+    ]}]
+  }
+- .gitignore (node_modules, dist, .env*), README.md (oʻzbek va rus tilida: ishga tushirish, kontent qoʻshish, rasm/audio qoʻshish, deploy).
+- public/: favicon.svg (Humocha), robots.txt, manifest.webmanifest.
+- index.html: title «Sehrli til — oʻzbek tilini sehrli oʻrgan», meta description (3 tilda emas — bitta, oʻzbekcha), Open Graph, theme-color (yorugʻ va tungi uchun ikkita).
+
+### Papka tuzilmasi
+src/
+  app/ (App.tsx, router.tsx, providers)
+  components/ui/ (Button, IconButton, Card, Modal, ProgressBar, StarRating, SmartImage, AudioButton)
+  components/layout/ (Header, BottomNav, Sidebar, Footer)
+  components/exercises/ (har bir mashq turi alohida komponent + umumiy ExerciseRunner)
+  games/ (har bir oʻyin alohida papkada)
+  features/ (dictionary, lab, translation, stories, riddles, tests, parents, teacher, achievements, safety, alphabet)
+  content/ (types.ts, grade2/*.ts, grade3/*.ts, riddles.ts, stories.ts, safetyCards.ts)
+  i18n/ (uz.ts, ru.ts, en.ts, index.ts)
+  lib/ (alphabet.ts, leitner.ts, audio.ts, sfx.ts, shuffle.ts, grading.ts)
+  store/ (useProgress.ts, useSettings.ts)
+  config/ (safeLinks.ts, theme.ts)
+  styles/ (index.css)
+scripts/ (check-content.mjs, check-images.mjs)
+
+### Kontent tiplari (asos sifatida ol)
+type Lang = 'uz' | 'ru' | 'en';
+type PartOfSpeech = 'ot' | 'sifat' | 'fel' | 'son' | 'olmosh' | 'ravish' | 'undov' | 'ibora';
+interface Word {
+  id: string;                 // 'g2-u3-aka'
+  uz: string; ru: string; en: string;
+  pos: PartOfSpeech;
+  emoji: string;
+  image?: string;
+  pronunciationRu: string;    // «ака»
+  example: Record<Lang, string>;
+  synonyms?: string[]; antonyms?: string[]; family?: string[];
+  memoryTip?: Partial<Record<'ru' | 'en', string>>;
+  tags: string[];
+}
+interface Unit {
+  id: string; grade: 2 | 3; order: number;
+  title: Record<Lang, string>;
+  icon: string; color: string;
+  words: Word[];
+  lecture: Record<Lang, string[]>;      // 3–5 gap
+  magicKey: { rule: Record<Lang, string>; examples: { uz: string; ru: string; en: string }[] };
+  dialog: { speaker: 'Anvar' | 'Katya' | 'Humocha' | 'Ustoz' | 'Onam' | 'Sotuvchi'; uz: string; ru: string; en: string }[];
+  exercises: Exercise[];   // discriminated union: type maydoni boʻyicha
+  riddleIds: string[];
+  storyId?: string;
+  homeTask: Record<Lang, string>;
+  tprCommands: { uz: string; ru: string; en: string; emoji: string }[];
+}
+
+### scripts/check-content.mjs (build'dan oldin ishga tushiriladigan sifat nazorati)
+- Barcha oʻzbekcha matnlarda notoʻgʻri belgilarni qidiradi: o', g', o`, g`, o‘, g‘ (U+2018) → xato deb chiqaradi va toʻgʻrisini (U+02BB) taklif qiladi.
+- Takrorlangan soʻz id'larini topadi.
+- Har bir soʻzda ru, en, example toʻldirilganini tekshiradi.
+- Har bir topishmoqning javobi lugʻatda borligini tekshiradi.
+
+### Sifat mezonlari (topshirishdan oldin oʻzing tekshir)
+- npm install && npm run build — 0 xato, 0 ogohlantirish (TypeScript).
+- npm run test — barcha testlar oʻtadi (alphabet.ts, leitner.ts, grading.ts).
+- Brauzer konsolida 0 xato.
+- Lighthouse: Accessibility ≥ 95, Performance ≥ 90, Best Practices ≥ 95.
+- Klaviatura bilan toʻliq boshqarish, koʻrinadigan focus halqasi.
+- 360px kenglikda gorizontal skroll yoʻq.
+[22.11.2026 12:20] Umidam: =====================================================================
+## 13. QOʻSHIMCHA KREATIV GʻOYALAR (albatta qoʻsh)
+=====================================================================
+1. «Dam ol!» ekrani — 25 daqiqadan keyin koʻz mashqi oʻzbekcha buyruqlar bilan («Koʻzingni yum. Chapga qara. Oʻngga qara.») — dam olish ham dars.
+2. «Kun soʻzi» + kichik hikoya, ota-ona bilan kechki suhbat uchun savol.
+3. «Mening birinchi kitobim» — bola «Ertak quruvchi»da tuzgan ertaklardan shaxsiy kitobcha yigʻiladi va chop etiladi.
+4. Bayram taqvimi — yaqinlashayotgan bayramga mavzuli mini-dars avtomatik chiqadi (Navroʻz — 21-mart, Oʻzbek tili bayrami — 21-oktabr).
+5. «Oʻzbekiston boʻylab sayohat» — 3-sinf olamida har bir shahar oroli (Samarqand — Registon, Buxoro — Ark, Xiva — Ichan qalʼa) real rasmlar va 5 ta soʻz bilan.
+6. «Sehrli klaviatura» — ekran klaviaturasida oʻ, gʻ, ʼ (va yangi alifbo rejimida ö, ğ, ş, ç) katta tugmalari.
+7. Ota-onaga haftalik «oilaviy topshiriq» kartasi — chop etib muzlatgichga yopishtirish uchun.
+8. Har bir boʻlim yakunida Humocha «sehrli patini» beradi — 20 ta pat yigʻilsa, Humocha toʻliq rangli boʻladi (vizual progress).
+9. Offline ishlash (PWA) — 2-bosqichda, vite-plugin-pwa bilan, build xatosiz boʻlgandan keyingina.
+
+=====================================================================
+## 14. ISH TARTIBI
+=====================================================================
+Katta loyihani bir yoʻla yozib, kodni chala qoldirma. Quyidagi bosqichlarda ishlaymiz, har bosqich oxirida build xatosiz boʻlishi shart:
+1-bosqich: Loyiha skeleti, dizayn tizimi, layout, routing, i18n, tema, sozlamalar, bosh sahifa, xarita, 404.
+2-bosqich: Kontent tiplari + 2-sinfning 10 ta boʻlimi toʻliq kontenti, dars sahifasi, ExerciseRunner va 10 xil mashq.
+3-bosqich: Lugʻat moduli (qidiruv, sandiqcha, Leitner), Soʻz laboratoriyasi, Tarjima ustaxonasi.
+4-bosqich: 14 ta oʻyin.
+5-bosqich: Topishmoqlar, ertaklar, testlar, yutuqlar, stikerlar albomi.
+6-bosqich: 3-sinfning 10 ta boʻlimi, alifbo rejimlari va testlari.
+7-bosqich: Ota-onalar burchagi, oʻqituvchi rejimi, xavfsiz internet, print CSS.
+8-bosqich: Sifat nazorati: check-content, testlar, accessibility, performance, README.
+
+Hozir faqat 1-BOSQICHni toʻliq va ishlaydigan holda bajar. Oxirida:
+(a) yaratilgan fayllar roʻyxati, (b) keyingi bosqich uchun nima tayyor, (c) oʻz-oʻzini tekshirish natijasi (build, importmap yoʻqligi, katta-kichik harf mosligi) haqida qisqa hisobot ber.
